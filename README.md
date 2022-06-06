@@ -11,10 +11,13 @@ The site contains several images of droppings from healthy chickens and chickens
 Only a subset of the images were used. Specifically, 500 images of healthy droppings and 500 images of Coccidiosis droppings were used.
 
 ## Confusion Matrix
-**1. Training Accuracy and Confusion Matrix**
+For the following images:
+* 0 -> Coccidiosis
+* 1 -> Healthy
+1. Training Accuracy and Confusion Matrix
 ---
 ![training_acc](https://user-images.githubusercontent.com/57553041/172099563-65578400-1076-41ad-88ee-dfed4326e2ae.jpg)
 
-**2. Test Accuracy, F1 Score, and Confusion Matrix**
+2. Test Accuracy, F1 Score, and Confusion Matrix
 ---
 ![test_acc](https://user-images.githubusercontent.com/57553041/172099684-3a2df74c-b712-4264-b536-87f43ff23ec1.jpg)
