@@ -16,14 +16,14 @@ For the following images:
 * 1 -> Healthy
 1. Training Accuracy and Confusion Matrix
 ---
-Training set uses **400** images for both healthy and Coccidiosis-infected droppings.
+Training set uses **400** images for both healthy and Coccidiosis-infected droppings.<br><br>
 ![training_acc](https://user-images.githubusercontent.com/57553041/172099563-65578400-1076-41ad-88ee-dfed4326e2ae.jpg)<br><br>
 
 From the training results, the AI was able to correctly identify 391 healthy droppings and 372 infected droppings. **Twenty eight \(28\)** droppings were incorrectly labeled as healthy \(False Negative\). **Nine \(9\)** droppings were incorrectly labeled as infected \(False Positive\).
 
 2. Test Accuracy, F1 Score, and Confusion Matrix
 ---
-Test set uses **100** images for both healthy and Coccidiosis-infected droppings. The AI achieved around 84% accuracy on the test set.
+Test set uses **100** images for both healthy and Coccidiosis-infected droppings. The AI achieved around 84% accuracy on the test set.<br><br>
 ![test_acc](https://user-images.githubusercontent.com/57553041/172099684-3a2df74c-b712-4264-b536-87f43ff23ec1.jpg)<br><br>
 
 From the test results, the AI was able to correctly identify 89 healthy droppings and 79 infected droppings. **Twenty one \(21\)** droppings were incorrectly labeled as healthy \(False Negative\). **Eleven \(11\)** droppings were incorrectly labeled as infected \(False Positive\).
