@@ -1,5 +1,5 @@
 # Chick-fil-AI
-This project applies basic ANN to detect presence of Coccidiosis in chickens using images of chicken droppings.
+This project applies basic ANN to detect presence of Coccidiosis in chickens using images of chicken droppings. This is a course requirement for CS 180 Artificial Intelligence of the Department of Computer Science, College of Engineering, University of the Philippines, Diliman under the supervision of Paul Regonia, Ph. D.
 
 ## Prerequisites
 1. Latest version of Anaconda
